@@ -19,7 +19,7 @@
 ### 🛠️ My Daily Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,kotlin,androidstudio,flask,cpp,firebase,git,mongodb,opencv,javascript,nodejs,numpy,pandas,fastapi,aws,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,kotlin,androidstudio,flask,cpp,firebase,git,mongodb,opencv,javascript,nodejs,fastapi,aws,docker&perline=10" />
 </p>
 
 ---
