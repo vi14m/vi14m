@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm a B.Tech graduate in **Computer Science & Engineering** from **IIT Dharwad**.  
+🎓 I'm a B.Tech graduate in **Electrical Engineering** from **IIT Dharwad**.  
 💡 I build AI that works not just in research papers, but in the wild — whether it's an edge device, a mobile app, or a web dashboard.  
 🔥 My passion lies at the intersection of **deep learning**, **systems design**, and **product thinking**.
 
