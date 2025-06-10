@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
+<h1 align="center">Hey there 👋 I'm Vishal Kumar</h1>
 
 <p align="center">
-  <b>🔬 AI Engineer | 🧠 Deep Learning Researcher | 🛠️ Full-Stack Builder</b><br>
-  <i>Creating Real-World Impact with Practical AI Solutions</i>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%7C+Edge+ML+Specialist+%7C+Full-Stack+Builder;Real+World+Problems+Need+Deployed+AI!" />
 </p>
 
 ---
@@ -10,62 +9,72 @@
 ### 👨‍💻 About Me
 
 🎓 I'm a B.Tech graduate in **Computer Science & Engineering** from **IIT Dharwad**.  
-⚙️ I specialize in **Deep Learning**, **Edge AI**, and **Full-Stack Systems**, with a passion for deploying models in **real-world settings** — from embedded systems to intuitive user interfaces.
+💡 I build AI that works not just in research papers, but in the wild — whether it's an edge device, a mobile app, or a web dashboard.  
+🔥 My passion lies at the intersection of **deep learning**, **systems design**, and **product thinking**.
 
-My goal: build AI that doesn’t just work in theory, but thrives in production.
-
----
-
-### 🚀 Featured Projects
-
-| 🧠 Project | 🧰 Stack | 💡 Highlights |
-|-----------|----------|---------------|
-| **🚨 Real-Time Crime Detection on Edge** | `YOLOv3-Tiny`, `Darknet`, `Jetson Nano`, `C2f`, `SPPF` | Designed and deployed an optimized Tiny-YOLOv3 pipeline for real-time crime detection on Jetson Nano with 30% improved FPS. |
-| **🧑‍🎨 AI Art Detector** | `EfficientNetB0`, `FFT`, `Self-Attention`, `Grad-CAM` | Built a spectral-feature-based detector for AI-generated artwork using patch-wise attention and Grad-CAM visualization. |
-| **🧬 Synthetic Data Generator** | `GANs`, `VAEs`, `LLMs`, `TimeLLM` | Created a privacy-preserving synthetic data generation pipeline for sectors like healthcare, retail, and finance. |
-| **🏘️ NextDoor (Inter-IIT)** | `Kotlin`, `Jetpack Compose`, `Firebase Auth + Realtime DB` | Developed a hyperlocal community Android app for neighbors to post events, share safety alerts, and collaborate — fully real-time. |
-| **🛒 ShopIQ** | `React.js`, `Zustand`, `Expo`, `Mock AI Services` | Built a frontend prototype of a smart shopping assistant with AI-powered search, personalized suggestions, and price insights. |
+**I believe great AI = Research × Engineering × UX.**
 
 ---
 
-### 🧠 Skills & Tools
+### 🛠️ My Daily Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,kotlin,androidstudio,flask,cpp,firebase,git,mongodb,opencv,javascript,nodejs,numpy,pandas,fastapi,aws,docker&perline=10" />
+</p>
+
+---
+
+### 🚀 Projects I’m Proud Of
+
+> A few real-world problems I’ve tackled using AI, system design, and good old hustle.
+
+#### 🔍 Real-Time Crime Detection on Edge  
+🧠 `YOLOv3-Tiny`, `C2f`, `SPPF`, `Jetson Nano`, `Darknet`  
+> ⚡ Optimized YOLOv3-tiny with modular enhancements and deployed on Jetson Nano for **30% faster real-time inference**.  
+> 📦 Perfect for real-world surveillance in constrained environments.
+
+#### 🎨 AI Art Detector  
+🖼 `EfficientNetB0`, `FFT`, `Self-Attention`, `Grad-CAM`  
+> Detects AI-generated art using frequency-domain features and patch-wise attention with visual heatmap explainability.  
+> 🚫 Helps combat misinformation from synthetic visuals.
+
+#### 🧬 Synthetic Data Generator  
+🔁 `GAN`, `VAE`, `TimeLLM`, `LLMs`, `PyTorch`, `Streamlit`  
+> Created a smart generator to produce domain-agnostic, **privacy-preserving** datasets across healthcare, retail, and finance.  
+> 📈 Boosts ML training in sensitive domains without real data leakage.
+
+#### 🏘️ NextDoor  
+📱 `Kotlin`, `Jetpack Compose`, `Firebase Realtime DB`, `Auth`  
+> A real-time neighborhood app for sharing alerts, events, and updates — built for Inter-IIT Tech Meet.  
+> 🔔 Push-notifications + real-time sync = **community made digital**.
+
+#### 🛒 ShopIQ  
+🛍️ `React.js`, `Zustand`, `Expo`, `AI Simulators`  
+> Frontend of a next-gen smart shopping app with AI-powered personalization, price insight mockups, and fast UI transitions.  
+> ⚡ Blazing fast thanks to reactive state management using Zustand.
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vi14m&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vi14m&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=vi14m&theme=dark&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vi14m&layout=compact&langs_count=8&theme=dark&hide_border=false" height="150" />
 </div>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let’s Collaborate
 
 <div align="left">
-  <a href="mailto:vishalkumar1981v@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" /></a>
-  <a href="https://www.linkedin.com/in/vishal-kumar-b605111b5/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" /></a>
+  <a href="mailto:vishalkumar1981v@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vishal-kumar-b605111b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/vi14m/vi14m/output/snake.svg" alt="snake animation" />
+### 🐍 GitHub Snake Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vi14m/vi14m/output/snake.svg" alt="GitHub Snake animation" />
+</p>
